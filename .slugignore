@@ -1,2 +1,3 @@
 # no excel files to upload
 *.xlsx
+*.csv
